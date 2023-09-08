@@ -1,0 +1,41 @@
+#header{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#carousel-banner{
+  margin-top: 50px;
+}
+
+.carousel-wrapper{
+  background-color: darkred;
+  color: white;
+  padding: 20px;
+}
+
+#latest-projects{
+margin-top: 50px;
+}
+
+#latest-articles{
+margin-top: 50px;
+}
+
+.subtitles{
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.subheader{
+  color: grey;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#footer{
+  background-color: grey;
+  color: white
+}
+
+a{
+  color: darkred;
+}
